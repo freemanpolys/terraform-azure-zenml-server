@@ -1,4 +1,5 @@
 What This Script Does:
+
 ✅ Creates an Azure Resource Group
 
 ✅ Deploys an Azure Log Analytics Workspace for monitoring
